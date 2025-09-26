@@ -1,7 +1,3 @@
-André Leiva|07-06-2006|19|Masculino|ORH+|Privado|Hospital Central
-Raúl Gómez|21-05-2007|18|Masculino|ORH+|Privado|Hospital Central
-Juan Meneses|21-05-2007|18|Masculino|ORH+|Público|Hospital Central
-Miolette Belaunde|21-05-2007|18|Masculino|ORH+|Privado|Hospital Central
-Sthefany Bohorquez|28-03-2006|19|Masculino|ORH+|Privado|Hospital Central
-Ricardo Alfaro|27-09-2006|19|Masculino|ORH+|Privado|Hospital Central
-Josh Blanco|27-09-2006|19|Masculino|ORH-|Ninguno|Hospital Central
+Sthefany Bohorquez|07-03-2006|19|Femenino|ORH+|Privado|Hospital Japonés|1.63
+André Leiva Fernandez|20-06-2006|19|Masculino|ORH-|Privado|Hospital San Juan de Dios|1.75
+Juan Perez Santos|10-12-2006|19|Masculino|ORH+|Público|Hospital Francés|1.69
